@@ -34,4 +34,4 @@ Sinta-se à vontade para:
 ## 📬 Contato
 Criado por Heitor Giussani Dalla Villa
 - 📧 heitorvillavilla@gmail.com
-- 💼 LinkedIn
+- 💼 https://www.linkedin.com/in/heitordallavilla/
