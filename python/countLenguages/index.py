@@ -4,15 +4,14 @@
 
 def count_languages(lst):
     objeto = {}
-    cont = 1
 
     for obj in lst:
         linguagem = obj['language']
 
         if (linguagem not in objeto):
-            objeto[linguagem] = cont
+            objeto[linguagem] = 1
         else:
-            objeto[linguagem] = cont + 1
+            objeto[linguagem] += 1
 
     return objeto
 
